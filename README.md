@@ -23,7 +23,7 @@ I wanted:
 
 - A **very simple habit tracker**: just “went / didn’t go”, nothing else.
 - Something that lives **on my Home Screen** and gives me an overview of the year.
-- A tool that’s **fully offline & private** (no accounts, no subscriptions).
+- A tool that’s **fully free & no subscriptions**.
 - Full control over **colors and layout**, so it fits my own aesthetic.
 
 Most habit tracker apps are either overcomplicated or subscription-based. Scriptable lets you build exactly what you want with a bit of JavaScript and run it as a widget.  
