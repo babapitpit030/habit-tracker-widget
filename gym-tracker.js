@@ -57,7 +57,7 @@ const MENLO_BOLD = new Font("Menlo-Bold", 12);
 // ===========================================
 
 // File management setup
-let fm = FileManager.iCloud();
+let fm = FileManager.local();
 let dir = fm.documentsDirectory();
 let path = fm.joinPath(dir, STORAGE_FILE);
 
