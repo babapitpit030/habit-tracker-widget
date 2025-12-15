@@ -13,7 +13,7 @@ No logins, no cloud, no analytics. All data is stored in a simple JSON file on y
 
 ## Preview
 
-![Gym Tracker widget screenshot](screenshots/Widget.PNG)
+![Gym Tracker widget screenshot](Widget.PNG)
 
 ## Why This Exists
 
