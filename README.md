@@ -11,6 +11,10 @@ This repo contains a single Scriptable script that draws a **calendar-style grid
 
 No logins, no cloud, no analytics. All data is stored in a simple JSON file on your device.
 
+## Preview
+
+![Gym Tracker widget screenshot](screenshots/Widget.PNG)
+
 ## Why This Exists
 
 I wanted:
