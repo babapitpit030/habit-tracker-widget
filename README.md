@@ -1,6 +1,6 @@
 # Scriptable Habit Tracker Widget (iOS)
 
-A tiny, free, privacy-friendly habit tracker that lives directly on your iOS Home Screen.  
+A tiny, free habit tracker that lives directly on your iOS Home Screen.  
 Built with **JavaScript in [Scriptable](https://apps.apple.com/app/scriptable/id1405459188)**.
 
 This repo contains a single Scriptable script that draws a **GitHub-style contribution grid** of days and lets you track whether you did a habit (like “Gym”) each day. You run the script in Scriptable, answer **✅ / ❌**, and the widget updates:
