@@ -11,8 +11,6 @@ This repo contains a single Scriptable script that draws a **calendar-style grid
 
 No logins, no cloud, no analytics. All data is stored in a simple JSON file on your device.
 
----
-
 ## Why This Exists
 
 I wanted:
@@ -26,8 +24,6 @@ Most habit tracker apps are either overcomplicated or subscription-based. Script
 
 This script is my Gym tracker, but you can adapt it to *any* binary habit: reading, meditation, language learning, etc.
 
----
-
 ## Features
 
 - Calendar-style grid from a configurable `START_DATE` to year-end.
@@ -39,14 +35,11 @@ This script is my Gym tracker, but you can adapt it to *any* binary habit: readi
   - Left: your `ACTIVITY_NAME` (e.g. `Gym Tracker`).
   - Right: `count = X` — total completed days.
 
----
-
 ## Requirements
 
 - iPhone or iPad.
 - [Scriptable](https://apps.apple.com/app/scriptable/id1405459188) installed from the App Store.
 
----
 
 ## Setup & Usage
 
@@ -58,7 +51,6 @@ Download Scriptable from the App Store:
 
 Open it once so iOS registers it and it can appear in the widget list.
 
----
 
 ### 2. Create a new script in Scriptable
 
@@ -66,10 +58,9 @@ Open it once so iOS registers it and it can appear in the widget list.
 2. Tap the **+** button to create a new script.
 3. Give it a name, e.g. `Gym Tracker`.
 4. Delete any default code.
-5. Copy the contents of the script file from this repo (e.g. `gym-tracker.js`) and paste it into the editor.
+5. Copy the contents of the script file from this repo (`gym-tracker.js`) and paste it into the editor.
 6. Tap **Done** to save.
 
----
 
 ### 3. Configure the script
 
@@ -126,7 +117,6 @@ const CIRCLE_SPACING = 3;    // Space between squares
 const WIDGET_WIDTH = 360;    // Used for layout/alignment
 ```
 
----
 
 ### 4. Run the script manually (first-time setup)
 
@@ -148,7 +138,6 @@ Before adding the widget, run the script once from Scriptable to generate the da
 
 Every time you run the script manually, it will ask this same question for *today* and update the data.
 
----
 
 ### 5. Add the widget to your Home Screen
 
@@ -169,7 +158,6 @@ The widget will now display:
 * Your grid of days (filled/unfilled/future), and
 * A footer like `count = 8` on the right.
 
-  ---
 
 ## Credits
 
