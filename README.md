@@ -53,7 +53,7 @@ This script is my Gym tracker, but you can adapt it to *any* binary habit: readi
 
 Download Scriptable from the App Store:
 
-> 👉 [Scriptable on the App Store](https://apps.apple.com/app/scriptable/id1405459188)
+>  [Scriptable on the App Store](https://apps.apple.com/app/scriptable/id1405459188)
 
 Open it once so iOS registers it and it can appear in the widget list.
 
